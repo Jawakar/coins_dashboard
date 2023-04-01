@@ -1,0 +1,1 @@
+This commit adds a DAG job to Airflow to run the ingest_data.py script every 5 minutes. The script is configured to properly structure and store the data in GCP buckets in raw JSON format. This makes it easier to process and analyze the data later on.
