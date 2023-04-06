@@ -1,6 +1,6 @@
 # CoinsDashboard: Near-Real-Time Cryptocurrency Analytics
 
-CryptoDashboard is a dynamic, user-friendly, and visually engaging dashboard that consolidates and displays real-time and historical performance data of 1000+ cryptocurrencies based on their rank. It is designed to enable users to make informed decisions and better understand the trends in the cryptocurrency market.
+CoinsDashboard is a dynamic, user-friendly, and visually engaging dashboard that consolidates and displays real-time and historical performance data of 1000+ cryptocurrencies based on their rank. It is designed to enable users to make informed decisions and better understand the trends in the cryptocurrency market.
 
 ## Table of Contents
 
