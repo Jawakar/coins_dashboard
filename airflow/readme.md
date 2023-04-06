@@ -2,6 +2,10 @@
 
 This directory contains an Airflow DAG (Directed Acyclic Graph) job that runs the `ingest_data.py` script every 5 minutes. The `ingest_data.py` script is designed to properly structure and store the data in GCP buckets in raw JSON format, making it easier to process and analyze the data later on.
 
+![1680786742419](image/readme/1680786742419.png)
+
+![1680786782093](image/readme/1680786782093.png)
+
 ## Requirements
 
 Before running the DAG, you'll need to make sure you have the following dependencies installed:
