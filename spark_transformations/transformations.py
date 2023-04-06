@@ -41,5 +41,3 @@ bucket_name = "coins_data_gold"
 bucket = client.get_bucket(bucket_name)
 blob = bucket.blob("coins.csv")
 blob.upload_from_string(csv_string, content_type='text/csv')
-
-
