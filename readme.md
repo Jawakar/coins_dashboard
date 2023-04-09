@@ -64,6 +64,8 @@ This project uses Cloud Scheduler to schedule the job every 5 minutes.
 
 Looker Studio is a cloud-based business intelligence and data analytics platform used for visualizing the useful insights.
 
+![1681028856649](image/readme/1681028856649.png)
+
 **Link to the dashboard:** [https://lookerstudio.google.com/reporting/7343f69c-84ce-4768-8690-01795ae0c6f3/page/F6FLD](https://lookerstudio.google.com/reporting/7343f69c-84ce-4768-8690-01795ae0c6f3/page/F6FLD)
 
 [View the Looker Studio Dashboard Configuration](https://github.com/Jawakar/coins_dashboard/tree/main/dashboard)
@@ -82,7 +84,6 @@ Before running this project, you'll need to install the required Python packages
 To install the dependencies, navigate to the project's root directory and run the following command:
 
 `pip install -r requirements.txt `
-
 
 ### Configuring Google Cloud SDK
 
@@ -155,7 +156,6 @@ CryptoDashboard/
 └── README.md
 
 ```
-
 
 This structure includes the data architecture diagram, Terraform configuration, Airflow orchestration, PySpark transformations, DataProc components, dashboard configuration, requirements file, and this README file.
 
