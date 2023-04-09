@@ -4,15 +4,15 @@ CoinsDashboard is a dynamic, user-friendly, and visually engaging dashboard that
 
 ## Table of Contents
 
-* [Problem Statement](https://chat.openai.com/chat?model=gpt-4#problem-statement)
-* [Data Architecture](https://chat.openai.com/chat?model=gpt-4#data-architecture)
-* [Data Ingestion](https://chat.openai.com/chat?model=gpt-4#data-ingestion)
-* [Cloud Data Storage](https://chat.openai.com/chat?model=gpt-4#cloud-data-storage)
-* [Transformations](https://chat.openai.com/chat?model=gpt-4#transformations)
-* [Data Warehouse](https://chat.openai.com/chat?model=gpt-4#data-warehouse)
-* [Scheduling the Workflow](https://chat.openai.com/chat?model=gpt-4#scheduling-the-workflow)
-* [Dashboard](https://chat.openai.com/chat?model=gpt-4#dashboard)
-* [Directory Structure](https://chat.openai.com/chat?model=gpt-4#directory-structure)
+* [Problem Statement](https://github.com/Jawakar/coins_dashboard#problem-statement)
+* [Data Architecture](https://github.com/Jawakar/coins_dashboard#data-architecture)
+* [Data Ingestion](https://github.com/Jawakar/coins_dashboard#data-ingestion)
+* [Cloud Data Storage](https://github.com/Jawakar/coins_dashboard#cloud-data-storage)
+* [Transformations](https://github.com/Jawakar/coins_dashboard#transformations)
+* [Data Warehouse](https://github.com/Jawakar/coins_dashboard#data-warehouse)
+* [Scheduling the Workflow](https://github.com/Jawakar/coins_dashboard#scheduling-the-workflow)
+* [Dashboard](https://github.com/Jawakar/coins_dashboard#dashboard)
+* [Directory Structure](https://github.com/Jawakar/coins_dashboard#directory-structure)
 
 ## Problem Statement
 
